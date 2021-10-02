@@ -5,3 +5,15 @@ div {
     color: white;
     font-size: 32px;
 }
+* {
+    font: "Verdana", sans-serif;
+}
+
+
+.odd {
+   background-color: #f27c97;
+}
+
+#2 {
+
+}
